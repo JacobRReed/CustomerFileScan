@@ -1,0 +1,23 @@
+Stevenson, Total Order = $2060.00
+Couch 1 $800.00, Item Value = $800.00
+Chair 2 $350.00, Item Value = $700.00
+Table 1 $500.00, Item Value = $500.00
+Clock 2 $30.00, Item Value = $60.00
+
+Lazlo, Total Order = $1380.00
+Fridge 1 $1200.00, Item Value = $1200.00
+Vase 3 $40.00, Item Value = $120.00
+Mirror 1 $60.00, Item Value = $60.00
+
+Smith, Total Order = $332.50
+Microwave 1 $230.00, Item Value = $230.00
+Sweater 3 $22.50, Item Value = $67.50
+Candle 10 $3.50, Item Value = $35.00
+
+Flintstone, Total Order = $85.00
+Plate 5 $10.00, Item Value = $50.00
+Bowl 5 $7.00, Item Value = $35.00
+
+Reich, Total Order = $37.50
+Umbrella 3 $12.50, Item Value = $37.50
+
